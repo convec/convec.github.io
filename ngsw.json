@@ -1,0 +1,94 @@
+{
+  "configVersion": 1,
+  "timestamp": 1588878039274,
+  "index": "https://convec.github.io/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://convec.github.io/favicon.ico",
+        "https://convec.github.io/index.html",
+        "https://convec.github.io/main-es2015.d5a8810274b825abafac.js",
+        "https://convec.github.io/main-es5.d5a8810274b825abafac.js",
+        "https://convec.github.io/manifest.webmanifest",
+        "https://convec.github.io/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "https://convec.github.io/polyfills-es5.9e286f6d9247438cbb02.js",
+        "https://convec.github.io/runtime-es2015.1eba213af0b233498d9d.js",
+        "https://convec.github.io/runtime-es5.1eba213af0b233498d9d.js",
+        "https://convec.github.io/scripts.dacd2aa2dbe7b73e1843.js",
+        "https://convec.github.io/styles.4c2b6ef4757b79998d9c.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://convec.github.io/assets/1.svg",
+        "https://convec.github.io/assets/convec.png",
+        "https://convec.github.io/assets/creeper.js",
+        "https://convec.github.io/assets/icons/apple-touch-icon.png",
+        "https://convec.github.io/assets/icons/icon-128x128.png",
+        "https://convec.github.io/assets/icons/icon-144x144.png",
+        "https://convec.github.io/assets/icons/icon-152x152.png",
+        "https://convec.github.io/assets/icons/icon-192x192.png",
+        "https://convec.github.io/assets/icons/icon-384x384.png",
+        "https://convec.github.io/assets/icons/icon-512x512.png",
+        "https://convec.github.io/assets/icons/icon-72x72.png",
+        "https://convec.github.io/assets/icons/icon-96x96.png",
+        "https://convec.github.io/assets/icons/icon.svg",
+        "https://convec.github.io/assets/miller.js"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://convec.github.io/assets/1.svg": "b01892fdf4cc2b3f60d7189b11043f3293135f83",
+    "https://convec.github.io/assets/convec.png": "49d5b9798ddbf6b08668cb8e0bff8c9ed1b1a967",
+    "https://convec.github.io/assets/creeper.js": "6163df873aee4916b75c9591659802588f84b8ef",
+    "https://convec.github.io/assets/icons/apple-touch-icon.png": "7dae1eb7fe1047c4a35cdbaadf36789828de47f3",
+    "https://convec.github.io/assets/icons/icon-128x128.png": "97a19998df0fbd6807efa26cdb3bbf9d6d63d313",
+    "https://convec.github.io/assets/icons/icon-144x144.png": "9a49830329684f4b47f441047d58c08ae4ee2d0d",
+    "https://convec.github.io/assets/icons/icon-152x152.png": "f867be3c8e219a2b684ed1191a76efc531ee482d",
+    "https://convec.github.io/assets/icons/icon-192x192.png": "be63ddb120512611df2830038ed34d27ab3b2556",
+    "https://convec.github.io/assets/icons/icon-384x384.png": "df96429103fde6cb9c51eb10d4300960596bb9b7",
+    "https://convec.github.io/assets/icons/icon-512x512.png": "9e8e3cfefc8d2d3c6c1f24736afaa76c53f6d54f",
+    "https://convec.github.io/assets/icons/icon-72x72.png": "bde67a8df5228368db88ad3ed60604b1c06a6929",
+    "https://convec.github.io/assets/icons/icon-96x96.png": "1b507b19bc25912c02ac0f3884b3736df00166bb",
+    "https://convec.github.io/assets/icons/icon.svg": "3ba3f4ea4b48a7d5f980e0214b36185bc5324847",
+    "https://convec.github.io/assets/miller.js": "b9952d4a58e1ff1284ad0755be80869ec23a7098",
+    "https://convec.github.io/favicon.ico": "8669ad572765f30f8094086a2f7b0b76a0e0984e",
+    "https://convec.github.io/index.html": "790366edaffcb83804e62c0a3b9dba7b0aefdc12",
+    "https://convec.github.io/main-es2015.d5a8810274b825abafac.js": "e00c831bb350da96ee61baa414db458b12106eed",
+    "https://convec.github.io/main-es5.d5a8810274b825abafac.js": "261b087f6c48c97d8b87f97c3583e3df2fa7fbaf",
+    "https://convec.github.io/manifest.webmanifest": "ac980127a55394749e4aac9b128c2832900b1a74",
+    "https://convec.github.io/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "https://convec.github.io/polyfills-es5.9e286f6d9247438cbb02.js": "89222a28dbabb780fc372d33834080e0cd3083d9",
+    "https://convec.github.io/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://convec.github.io/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://convec.github.io/scripts.dacd2aa2dbe7b73e1843.js": "f5445460ad7cfe8844ce419ee006c66113a5c667",
+    "https://convec.github.io/styles.4c2b6ef4757b79998d9c.css": "a7054a0f81ddac8309f3ffd89d0dd03126d528aa"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
