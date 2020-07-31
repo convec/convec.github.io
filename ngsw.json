@@ -1,24 +1,27 @@
 {
   "configVersion": 1,
-  "timestamp": 1588878039274,
+  "timestamp": 1596171249973,
   "index": "https://convec.github.io/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
       "urls": [
         "https://convec.github.io/favicon.ico",
         "https://convec.github.io/index.html",
-        "https://convec.github.io/main-es2015.d5a8810274b825abafac.js",
-        "https://convec.github.io/main-es5.d5a8810274b825abafac.js",
+        "https://convec.github.io/main-es2015.11ced0ccc55fa33d62c5.js",
+        "https://convec.github.io/main-es5.11ced0ccc55fa33d62c5.js",
         "https://convec.github.io/manifest.webmanifest",
-        "https://convec.github.io/polyfills-es2015.690002c25ea8557bb4b0.js",
-        "https://convec.github.io/polyfills-es5.9e286f6d9247438cbb02.js",
-        "https://convec.github.io/runtime-es2015.1eba213af0b233498d9d.js",
-        "https://convec.github.io/runtime-es5.1eba213af0b233498d9d.js",
+        "https://convec.github.io/polyfills-es2015.95bb65e853d2781ac3bd.js",
+        "https://convec.github.io/polyfills-es5.341d48ffc88eaeae911d.js",
+        "https://convec.github.io/runtime-es2015.409e6590615fb48d139f.js",
+        "https://convec.github.io/runtime-es5.409e6590615fb48d139f.js",
         "https://convec.github.io/scripts.dacd2aa2dbe7b73e1843.js",
-        "https://convec.github.io/styles.4c2b6ef4757b79998d9c.css"
+        "https://convec.github.io/styles.f0a8d188adfcc6b69ac7.css"
       ],
       "patterns": []
     },
@@ -26,6 +29,9 @@
       "name": "assets",
       "installMode": "prefetch",
       "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
       "urls": [
         "https://convec.github.io/assets/1.svg",
         "https://convec.github.io/assets/convec.png",
@@ -62,16 +68,16 @@
     "https://convec.github.io/assets/icons/icon.svg": "3ba3f4ea4b48a7d5f980e0214b36185bc5324847",
     "https://convec.github.io/assets/miller.js": "b9952d4a58e1ff1284ad0755be80869ec23a7098",
     "https://convec.github.io/favicon.ico": "8669ad572765f30f8094086a2f7b0b76a0e0984e",
-    "https://convec.github.io/index.html": "790366edaffcb83804e62c0a3b9dba7b0aefdc12",
-    "https://convec.github.io/main-es2015.d5a8810274b825abafac.js": "e00c831bb350da96ee61baa414db458b12106eed",
-    "https://convec.github.io/main-es5.d5a8810274b825abafac.js": "261b087f6c48c97d8b87f97c3583e3df2fa7fbaf",
+    "https://convec.github.io/index.html": "12e2341dba615a3103ff299738acdf1d8e5c4ae3",
+    "https://convec.github.io/main-es2015.11ced0ccc55fa33d62c5.js": "34f4d13609eac22a83525dbbd76773e245df7836",
+    "https://convec.github.io/main-es5.11ced0ccc55fa33d62c5.js": "bf80bce719f07b0b15f3993a3b334979f28c8689",
     "https://convec.github.io/manifest.webmanifest": "ac980127a55394749e4aac9b128c2832900b1a74",
-    "https://convec.github.io/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
-    "https://convec.github.io/polyfills-es5.9e286f6d9247438cbb02.js": "89222a28dbabb780fc372d33834080e0cd3083d9",
-    "https://convec.github.io/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://convec.github.io/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://convec.github.io/polyfills-es2015.95bb65e853d2781ac3bd.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "https://convec.github.io/polyfills-es5.341d48ffc88eaeae911d.js": "ff14d90e08622190714660721edab5f43578829a",
+    "https://convec.github.io/runtime-es2015.409e6590615fb48d139f.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://convec.github.io/runtime-es5.409e6590615fb48d139f.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "https://convec.github.io/scripts.dacd2aa2dbe7b73e1843.js": "f5445460ad7cfe8844ce419ee006c66113a5c667",
-    "https://convec.github.io/styles.4c2b6ef4757b79998d9c.css": "a7054a0f81ddac8309f3ffd89d0dd03126d528aa"
+    "https://convec.github.io/styles.f0a8d188adfcc6b69ac7.css": "7a9807a4be5d14be4cefa1a506e2c7a4e7bb790f"
   },
   "navigationUrls": [
     {
