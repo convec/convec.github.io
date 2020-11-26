@@ -1,0 +1,1 @@
+var len,buf32,col,histG;self.addEventListener("message",function(a){if(buf32=a.data.buf32){len=buf32.length;histG=a.data.histG;for(a=0;a<len;a++)col=buf32[a],0!=(col&4278190080)>>24&&(col in histG?histG[col]++:histG[col]=1);self.postMessage({histG:JSON.stringify(histG)})}},!1);
